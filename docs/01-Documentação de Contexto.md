@@ -1,6 +1,6 @@
 # Introdução
 
-A cada dia, o controle financeiro se torna mais crucial na vida das pessoas. Manter informações precisas e atualizadas sobre suas finanças é essencial para navegar pelo cenário de incertezas econômicas.
+A cada dia o controle financeiro se torna mais crucial na vida das pessoas. Manter informações precisas e atualizadas sobre suas finanças é essencial para navegar pelo cenário de incertezas econômicas.
 
 Paralelamente, nota-se uma crescente necessidade de compartilhar despesas de forma eficiente. O aplicativo de finanças visa unir pessoas, permitindo a criação de grupos de custos para compartilhar responsabilidades, como contas de luz, água e aluguel. Essa abordagem colaborativa promove o equilíbrio financeiro e simplifica a gestão compartilhada.
 
